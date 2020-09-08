@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/bo4/Desktop/hpam_affan/myHero/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m
+  /Users/bo4/Desktop/hpam/myHero/ios/Pods/FirebaseCore/Firebase/Core/FIRVersion.m

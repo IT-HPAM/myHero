@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/bo4/Desktop/hpam_affan/myHero/ios/Pods/YoutubePlayer-in-WKWebView/WKYTPlayerView/WKYTPlayerView.m \
-  /Users/bo4/Desktop/hpam_affan/myHero/ios/Pods/Target\ Support\ Files/YoutubePlayer-in-WKWebView/YoutubePlayer-in-WKWebView-prefix.pch \
-  /Users/bo4/Desktop/hpam_affan/myHero/ios/Pods/YoutubePlayer-in-WKWebView/WKYTPlayerView/WKYTPlayerView.h
+  /Users/bo4/Desktop/hpam/myHero/ios/Pods/YoutubePlayer-in-WKWebView/WKYTPlayerView/WKYTPlayerView.m \
+  /Users/bo4/Desktop/hpam/myHero/ios/Pods/Target\ Support\ Files/YoutubePlayer-in-WKWebView/YoutubePlayer-in-WKWebView-prefix.pch \
+  /Users/bo4/Desktop/hpam/myHero/ios/Pods/YoutubePlayer-in-WKWebView/WKYTPlayerView/WKYTPlayerView.h

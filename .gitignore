@@ -1,1 +1,3 @@
-**ios/build/myhero/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/
+#ios
+build/
+*.pbxuser
